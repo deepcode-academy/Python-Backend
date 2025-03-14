@@ -45,5 +45,5 @@
 19. [Authentication and User Pages](https://github.com/deepcode-academy/Django-Tutorials/blob/main/18-Authentication%20and%20User%20Pages/README.md)
 20. [Deploy and Finalizations](https://github.com/deepcode-academy/Django-Tutorials/blob/main/19-Deployment%20and%20Finalization/README.md)
 
-# Django Rest Framework
+# Django Rest Framework Tutorial
 
