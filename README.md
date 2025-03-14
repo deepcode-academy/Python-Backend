@@ -22,6 +22,18 @@
 
 # PostgreSQL Tutorial
 
+1. [Introduction](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/00-introduction/README.md)
+2. [PostgreSQL](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/01-postgresql/README.md)
+3. [Basic Commands](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/02-basic-commands/README.md)
+4. [Data Retrieval and Filtering](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/03-data-retrieval-and-filtering/README.md)
+5. [Function and Aggregations](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/04-functions-and-aggregation/README.md)
+6. [Data Manipulation](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/05-data-manipulation/README.md)
+7. [Joins and Advanced Queries](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/06-joins-and-advanced-queries/README.md)
+8. [Indexes and Performance Optimization](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/07-indexes-and-performance-optimization/README.md)
+9. [PSQL Functions and Procedures](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/08-psql-functions-and-stored-procedures/README.md)
+10. [User management and Security](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/09-user-management-and-security/README.md)
+11. [PSQL Connect in Python](https://github.com/deepcode-academy/PSQL-Tutorials/blob/main/11-psql-connect-in-python/README.md)
+
 # Django Tutorial
 
 1. [Introduction to Django](https://github.com/deepcode-academy/Django-Tutorials/blob/main/00-Introduction%20to%20Django/README.md)
