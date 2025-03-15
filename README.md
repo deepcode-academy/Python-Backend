@@ -4,7 +4,7 @@
 1. [What is Python](https://github.com/deepcode-academy/Python-Tutorials/blob/main/00-what-is-python/README.md)
 2. [Variables](https://github.com/deepcode-academy/Python-Tutorials/blob/main/01-variable/README.md)
 3. [Operators](https://github.com/deepcode-academy/Python-Tutorials/blob/main/02-operators/README.md)
-4. [Lists]()
+4. [Lists](https://github.com/deepcode-academy/Python-Tutorials/blob/main/03-lists/README.md)
 5. [Tuples]()
 6. [Sets]()
 7. [Dictionary]()
