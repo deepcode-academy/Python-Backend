@@ -5,7 +5,7 @@
 2. [Variables](https://github.com/deepcode-academy/Python-Tutorials/blob/main/01-variable/README.md)
 3. [Operators](https://github.com/deepcode-academy/Python-Tutorials/blob/main/02-operators/README.md)
 4. [Lists](https://github.com/deepcode-academy/Python-Tutorials/blob/main/03-lists/README.md)
-5. [Tuples]()
+5. [Tuples](https://github.com/deepcode-academy/Python-Tutorials/blob/main/04-tuples/README.md)
 6. [Sets]()
 7. [Dictionary]()
 8. [if else elif]()
