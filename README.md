@@ -7,7 +7,7 @@
 4. [Lists](https://github.com/deepcode-academy/Python-Tutorials/blob/main/03-lists/README.md)
 5. [Tuples](https://github.com/deepcode-academy/Python-Tutorials/blob/main/04-tuples/README.md)
 6. [Sets](https://github.com/deepcode-academy/Python-Tutorials/blob/main/05-sets/README.md)
-7. [Dictionary]()
+7. [Dictionary](https://github.com/deepcode-academy/Python-Tutorials/blob/main/06-dictionary/README.md)
 8. [if else elif]()
 9. [For Loop]()
 10. [While Loop]()
