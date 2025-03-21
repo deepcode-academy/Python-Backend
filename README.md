@@ -11,7 +11,7 @@
 8. [if else elif](https://github.com/deepcode-academy/Python-Tutorials/blob/main/07-if-else/README.md)
 9. [For Loop](https://github.com/deepcode-academy/Python-Tutorials/blob/main/08-for-loop/README.md)
 10. [While Loop](https://github.com/deepcode-academy/Python-Tutorials/blob/main/09-while-loop/README.md)
-11. [Functions]()
+11. [Functions](https://github.com/deepcode-academy/Python-Tutorials/blob/main/10-functions/README.md)
 12. [Exception Handling]()
 13. [Modules]()
 14. [Files]()
