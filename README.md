@@ -15,7 +15,7 @@
 12. [Exception Handling](https://github.com/deepcode-academy/Python-Tutorials/blob/main/11-exception-handling/README.md)
 13. [Modules](https://github.com/deepcode-academy/Python-Tutorials/blob/main/12-moduls/README.md)
 14. [Files](https://github.com/deepcode-academy/Python-Tutorials/blob/main/13-file/README.md)
-15. [Database]()
+15. [Database](https://github.com/deepcode-academy/Python-Tutorials/blob/main/14-database/README.md)
 16. [Third Party Packages]()
 17. [OOP]()
 18. [Tasks]()
