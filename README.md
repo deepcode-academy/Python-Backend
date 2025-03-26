@@ -16,7 +16,7 @@
 13. [Modules](https://github.com/deepcode-academy/Python-Tutorials/blob/main/12-moduls/README.md)
 14. [Files](https://github.com/deepcode-academy/Python-Tutorials/blob/main/13-file/README.md)
 15. [Database](https://github.com/deepcode-academy/Python-Tutorials/blob/main/14-database/README.md)
-16. [Third Party Packages]()
+16. [Third Party Packages](https://github.com/deepcode-academy/Python-Tutorials/blob/main/15-third-party-packages/README.md)
 17. [OOP]()
 18. [Tasks]()
 
