@@ -18,7 +18,7 @@
 15. [Database](https://github.com/deepcode-academy/Python-Tutorials/blob/main/14-database/README.md)
 16. [Third Party Packages](https://github.com/deepcode-academy/Python-Tutorials/blob/main/15-third-party-packages/README.md)
 17. [OOP](https://github.com/deepcode-academy/Python-Tutorials/blob/main/16-oop/README.md)
-18. [Tasks]()
+18. [Tasks](https://github.com/deepcode-academy/Python-Tutorials/blob/main/17-tasks/README.md)
 
 # PostgreSQL Tutorial
 
