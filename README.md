@@ -60,3 +60,4 @@
 # Django Rest Framework Tutorial
 
 1. [Introduction to Django REST Framework](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/00-Introduction%20to%20Django%20REST%20Framework/README.md)
+2. [Setting Up a Django Project and DRF](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/01-Setting%20Up%20a%20Django%20Project%20and%20DRF/README.md)
