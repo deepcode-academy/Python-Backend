@@ -62,3 +62,4 @@
 1. [Introduction to Django REST Framework](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/00-Introduction%20to%20Django%20REST%20Framework/README.md)
 2. [Setting Up a Django Project and DRF](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/01-Setting%20Up%20a%20Django%20Project%20and%20DRF/README.md)
 3. [Creating the First API](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/02-Creating%20the%20First%20API/README.md)
+4. [Implementing CRUD Operations](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/03-Implementing%20CRUD%20Operations/README.md)
