@@ -64,3 +64,4 @@
 3. [Creating the First API](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/02-Creating%20the%20First%20API/README.md)
 4. [Implementing CRUD Operations](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/03-Implementing%20CRUD%20Operations/README.md)
 5. [Using Generic API Views](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/05-Using%20Generic%20API%20Views/README.md)
+6. [ViewSets and Routers](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/06-ViewSets%20and%20Routers/README.md)
