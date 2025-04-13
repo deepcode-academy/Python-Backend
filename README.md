@@ -66,3 +66,4 @@
 5. [Using Generic API Views](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/05-Using%20Generic%20API%20Views/README.md)
 6. [ViewSets and Routers](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/06-ViewSets%20and%20Routers/README.md)
 7. [Authentication (Token-Based Authentication](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/07-Authentication%20(Token-Based%20Authentication)/README.md)
+8. [Working with Permissions](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/08-Working%20with%20Permissions/README.md)
