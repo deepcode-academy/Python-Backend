@@ -67,3 +67,4 @@
 6. [ViewSets and Routers](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/06-ViewSets%20and%20Routers/README.md)
 7. [Authentication (Token-Based Authentication](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/07-Authentication%20(Token-Based%20Authentication)/README.md)
 8. [Working with Permissions](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/08-Working%20with%20Permissions/README.md)
+9. [Throttling and Rate Limiting](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/09-Throttling%20and%20Rate%20Limiting/README.md)
