@@ -70,3 +70,4 @@
 9. [Throttling and Rate Limiting](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/09-Throttling%20and%20Rate%20Limiting/README.md)
 10. [Filtering, Searching, and Ordering](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/10-Filtering%2C%20Searching%2C%20and%20Ordering/README.md)
 11. [Working with Pagination](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/11-Working%20with%20Pagination/README.md)
+12. [JWT Authentication](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/12-JWT%20Authentication/README.md)
