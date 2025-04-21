@@ -72,4 +72,4 @@
 11. [Working with Pagination](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/11-Working%20with%20Pagination/README.md)
 12. [JWT Authentication](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/12-JWT%20Authentication/README.md)
 13. [Signals and DRF](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/13-Signals%20and%20DRF/README.md)
-14. 
+14. [Background Tasks and Celery](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/14-Background%20Tasks%20and%20Celery/README.md)
