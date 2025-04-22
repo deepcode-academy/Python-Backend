@@ -73,3 +73,4 @@
 12. [JWT Authentication](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/12-JWT%20Authentication/README.md)
 13. [Signals and DRF](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/13-Signals%20and%20DRF/README.md)
 14. [Background Tasks and Celery](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/14-Background%20Tasks%20and%20Celery/README.md)
+15. [API Testing and Unit Testing](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/15-API%20Testing%20and%20Unit%20Testing/README.md)
