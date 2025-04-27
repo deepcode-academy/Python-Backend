@@ -75,3 +75,4 @@
 14. [Background Tasks and Celery](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/14-Background%20Tasks%20and%20Celery/README.md)
 15. [API Testing and Unit Testing](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/15-API%20Testing%20and%20Unit%20Testing/README.md)
 16. [Caching and Performance Optimization](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/16-Caching%20and%20Performance%20Optimization/README.md)
+17. [WebSockets and Django Channels](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/17-WebSockets%20and%20Django%20Channels/README.md)
