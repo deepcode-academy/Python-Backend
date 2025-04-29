@@ -77,3 +77,4 @@
 16. [Caching and Performance Optimization](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/16-Caching%20and%20Performance%20Optimization/README.md)
 17. [WebSockets and Django Channels](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/17-WebSockets%20and%20Django%20Channels/README.md)
 18. [Deployment and Docker](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/18-Deployment%20and%20Docker/README.md)
+19. [Advanced Concepts and Best Practices](https://github.com/deepcode-academy/DRF-Tutorials/blob/main/19-Advanced%20Concepts%20and%20Best%20Practices/README.md)
